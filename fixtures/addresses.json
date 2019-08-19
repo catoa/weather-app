@@ -1,0 +1,1102 @@
+[
+  {
+    "model": "core.Location",
+    "pk": 1,
+    "fields": {
+      "city": "New York",
+      "state": "New York",
+      "state_abbrev": "NY",
+      "latitude": 40.6635,
+      "longitude": -73.9387
+    }
+  },
+  {
+    "model": "core.Location",
+    "pk": 2,
+    "fields": {
+      "city": "Los Angeles",
+      "state": "California",
+      "state_abbrev": "CA",
+      "latitude": 34.0194,
+      "longitude": -118.4108
+    }
+  },
+  {
+    "model": "core.Location",
+    "pk": 3,
+    "fields": {
+      "city": "Chicago",
+      "state": "Illinois",
+      "state_abbrev": "IL",
+      "latitude": 41.8376,
+      "longitude": -87.6818
+    }
+  },
+  {
+    "model": "core.Location",
+    "pk": 4,
+    "fields": {
+      "city": "Houston",
+      "state": "Texas",
+      "state_abbrev": "TX",
+      "latitude": 29.7866,
+      "longitude": -95.3909
+    }
+  },
+  {
+    "model": "core.Location",
+    "pk": 5,
+    "fields": {
+      "city": "Phoenix",
+      "state": "Arizona",
+      "state_abbrev": "AZ",
+      "latitude": 33.5722,
+      "longitude": -112.0901
+    }
+  },
+  {
+    "model": "core.Location",
+    "pk": 6,
+    "fields": {
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "state_abbrev": "PA",
+      "latitude": 40.0094,
+      "longitude": -75.1333
+    }
+  },
+  {
+    "model": "core.Location",
+    "pk": 7,
+    "fields": {
+      "city": "San Antonio",
+      "state": "Texas",
+      "state_abbrev": "TX",
+      "latitude": 29.4724,
+      "longitude": -98.5251
+    }
+  },
+  {
+    "model": "core.Location",
+    "pk": 8,
+    "fields": {
+      "city": "San Diego",
+      "state": "California",
+      "state_abbrev": "CA",
+      "latitude": 32.8153,
+      "longitude": -117.135
+    }
+  },
+  {
+    "model": "core.Location",
+    "pk": 9,
+    "fields": {
+      "city": "Dallas",
+      "state": "Texas",
+      "state_abbrev": "TX",
+      "latitude": 32.7933,
+      "longitude": -96.7665
+    }
+  },
+  {
+    "model": "core.Location",
+    "pk": 10,
+    "fields": {
+      "city": "San Jose",
+      "state": "California",
+      "state_abbrev": "CA",
+      "latitude": 37.2967,
+      "longitude": -121.8189
+    }
+  },
+  {
+    "model": "core.Location",
+    "pk": 11,
+    "fields": {
+      "city": "Austin",
+      "state": "Texas",
+      "state_abbrev": "TX",
+      "latitude": 30.3039,
+      "longitude": -97.7544
+    }
+  },
+  {
+    "model": "core.Location",
+    "pk": 12,
+    "fields": {
+      "city": "Jacksonville",
+      "state": "Florida",
+      "state_abbrev": "FL",
+      "latitude": 30.3369,
+      "longitude": -81.6616
+    }
+  },
+  {
+    "model": "core.Location",
+    "pk": 13,
+    "fields": {
+      "city": "Fort Worth",
+      "state": "Texas",
+      "state_abbrev": "TX",
+      "latitude": 32.7815,
+      "longitude": -97.3467
+    }
+  },
+  {
+    "model": "core.Location",
+    "pk": 14,
+    "fields": {
+      "city": "Columbus",
+      "state": "Ohio",
+      "state_abbrev": "OH",
+      "latitude": 39.9852,
+      "longitude": -82.9848
+    }
+  },
+  {
+    "model": "core.Location",
+    "pk": 15,
+    "fields": {
+      "city": "San Francisco",
+      "state": "California",
+      "state_abbrev": "CA",
+      "latitude": 37.7272,
+      "longitude": -123.0322
+    }
+  },
+  {
+    "model": "core.Location",
+    "pk": 16,
+    "fields": {
+      "city": "Charlotte",
+      "state": "North Carolina",
+      "state_abbrev": "NC",
+      "latitude": 35.2078,
+      "longitude": -80.831
+    }
+  },
+  {
+    "model": "core.Location",
+    "pk": 17,
+    "fields": {
+      "city": "Indianapolis",
+      "state": "Indiana",
+      "state_abbrev": "IN",
+      "latitude": 39.7767,
+      "longitude": -86.1459
+    }
+  },
+  {
+    "model": "core.Location",
+    "pk": 18,
+    "fields": {
+      "city": "Seattle",
+      "state": "Washington",
+      "state_abbrev": "WA",
+      "latitude": 47.6205,
+      "longitude": -122.3509
+    }
+  },
+  {
+    "model": "core.Location",
+    "pk": 19,
+    "fields": {
+      "city": "Denver",
+      "state": "Colorado",
+      "state_abbrev": "CO",
+      "latitude": 39.7619,
+      "longitude": -104.8811
+    }
+  },
+  {
+    "model": "core.Location",
+    "pk": 20,
+    "fields": {
+      "city": "Washington",
+      "state": "District of Columbia",
+      "state_abbrev": "DC",
+      "latitude": 38.9041,
+      "longitude": -77.0172
+    }
+  },
+  {
+    "model": "core.Location",
+    "pk": 21,
+    "fields": {
+      "city": "Boston",
+      "state": "Massachusetts",
+      "state_abbrev": "MA",
+      "latitude": 42.332,
+      "longitude": -71.0202
+    }
+  },
+  {
+    "model": "core.Location",
+    "pk": 22,
+    "fields": {
+      "city": "El Paso",
+      "state": "Texas",
+      "state_abbrev": "TX",
+      "latitude": 31.8484,
+      "longitude": -106.427
+    }
+  },
+  {
+    "model": "core.Location",
+    "pk": 23,
+    "fields": {
+      "city": "Detroit",
+      "state": "Michigan",
+      "state_abbrev": "MI",
+      "latitude": 42.383,
+      "longitude": -83.1022
+    }
+  },
+  {
+    "model": "core.Location",
+    "pk": 24,
+    "fields": {
+      "city": "Nashville",
+      "state": "Tennessee",
+      "state_abbrev": "TN",
+      "latitude": 36.1718,
+      "longitude": -86.785
+    }
+  },
+  {
+    "model": "core.Location",
+    "pk": 25,
+    "fields": {
+      "city": "Portland",
+      "state": "Oregon",
+      "state_abbrev": "OR",
+      "latitude": 45.537,
+      "longitude": -122.65
+    }
+  },
+  {
+    "model": "core.Location",
+    "pk": 26,
+    "fields": {
+      "city": "Memphis",
+      "state": "Tennessee",
+      "state_abbrev": "TN",
+      "latitude": 35.1028,
+      "longitude": -89.9774
+    }
+  },
+  {
+    "model": "core.Location",
+    "pk": 27,
+    "fields": {
+      "city": "Oklahoma City",
+      "state": "Oklahoma",
+      "state_abbrev": "OK",
+      "latitude": 35.4671,
+      "longitude": -97.5137
+    }
+  },
+  {
+    "model": "core.Location",
+    "pk": 28,
+    "fields": {
+      "city": "Las Vegas",
+      "state": "Nevada",
+      "state_abbrev": "NV",
+      "latitude": 36.2292,
+      "longitude": -115.2601
+    }
+  },
+  {
+    "model": "core.Location",
+    "pk": 29,
+    "fields": {
+      "city": "Louisville",
+      "state": "Kentucky",
+      "state_abbrev": "KY",
+      "latitude": 38.1654,
+      "longitude": -85.6474
+    }
+  },
+  {
+    "model": "core.Location",
+    "pk": 30,
+    "fields": {
+      "city": "Baltimore",
+      "state": "Maryland",
+      "state_abbrev": "MD",
+      "latitude": 39.3,
+      "longitude": -76.6105
+    }
+  },
+  {
+    "model": "core.Location",
+    "pk": 31,
+    "fields": {
+      "city": "Milwaukee",
+      "state": "Wisconsin",
+      "state_abbrev": "WI",
+      "latitude": 43.0633,
+      "longitude": -87.9667
+    }
+  },
+  {
+    "model": "core.Location",
+    "pk": 32,
+    "fields": {
+      "city": "Albuquerque",
+      "state": "New Mexico",
+      "state_abbrev": "NM",
+      "latitude": 35.1056,
+      "longitude": -106.6474
+    }
+  },
+  {
+    "model": "core.Location",
+    "pk": 33,
+    "fields": {
+      "city": "Tucson",
+      "state": "Arizona",
+      "state_abbrev": "AZ",
+      "latitude": 32.1531,
+      "longitude": -110.8706
+    }
+  },
+  {
+    "model": "core.Location",
+    "pk": 34,
+    "fields": {
+      "city": "Fresno",
+      "state": "California",
+      "state_abbrev": "CA",
+      "latitude": 36.7836,
+      "longitude": -119.7934
+    }
+  },
+  {
+    "model": "core.Location",
+    "pk": 35,
+    "fields": {
+      "city": "Mesa",
+      "state": "Arizona",
+      "state_abbrev": "AZ",
+      "latitude": 33.4019,
+      "longitude": -111.7174
+    }
+  },
+  {
+    "model": "core.Location",
+    "pk": 36,
+    "fields": {
+      "city": "Sacramento",
+      "state": "California",
+      "state_abbrev": "CA",
+      "latitude": 38.5666,
+      "longitude": -121.4686
+    }
+  },
+  {
+    "model": "core.Location",
+    "pk": 37,
+    "fields": {
+      "city": "Atlanta",
+      "state": "Georgia",
+      "state_abbrev": "GA",
+      "latitude": 33.7629,
+      "longitude": -84.4227
+    }
+  },
+  {
+    "model": "core.Location",
+    "pk": 38,
+    "fields": {
+      "city": "Kansas City",
+      "state": "Missouri",
+      "state_abbrev": "MO",
+      "latitude": 39.1251,
+      "longitude": -94.551
+    }
+  },
+  {
+    "model": "core.Location",
+    "pk": 39,
+    "fields": {
+      "city": "Colorado Springs",
+      "state": "Colorado",
+      "state_abbrev": "CO",
+      "latitude": 38.8673,
+      "longitude": -104.7607
+    }
+  },
+  {
+    "model": "core.Location",
+    "pk": 40,
+    "fields": {
+      "city": "Miami",
+      "state": "Florida",
+      "state_abbrev": "FL",
+      "latitude": 25.7752,
+      "longitude": -80.2086
+    }
+  },
+  {
+    "model": "core.Location",
+    "pk": 41,
+    "fields": {
+      "city": "Raleigh",
+      "state": "North Carolina",
+      "state_abbrev": "NC",
+      "latitude": 35.8306,
+      "longitude": -78.6418
+    }
+  },
+  {
+    "model": "core.Location",
+    "pk": 42,
+    "fields": {
+      "city": "Omaha",
+      "state": "Nebraska",
+      "state_abbrev": "NE",
+      "latitude": 41.2644,
+      "longitude": -96.0451
+    }
+  },
+  {
+    "model": "core.Location",
+    "pk": 43,
+    "fields": {
+      "city": "Long Beach",
+      "state": "California",
+      "state_abbrev": "CA",
+      "latitude": 33.8092,
+      "longitude": -118.1553
+    }
+  },
+  {
+    "model": "core.Location",
+    "pk": 44,
+    "fields": {
+      "city": "Virginia Beach",
+      "state": "Virginia",
+      "state_abbrev": "VA",
+      "latitude": 36.78,
+      "longitude": -76.0252
+    }
+  },
+  {
+    "model": "core.Location",
+    "pk": 45,
+    "fields": {
+      "city": "Oakland",
+      "state": "California",
+      "state_abbrev": "CA",
+      "latitude": 37.7698,
+      "longitude": -122.2257
+    }
+  },
+  {
+    "model": "core.Location",
+    "pk": 46,
+    "fields": {
+      "city": "Minneapolis",
+      "state": "Minnesota",
+      "state_abbrev": "MN",
+      "latitude": 44.9633,
+      "longitude": -93.2683
+    }
+  },
+  {
+    "model": "core.Location",
+    "pk": 47,
+    "fields": {
+      "city": "Tulsa",
+      "state": "Oklahoma",
+      "state_abbrev": "OK",
+      "latitude": 36.1279,
+      "longitude": -95.9023
+    }
+  },
+  {
+    "model": "core.Location",
+    "pk": 48,
+    "fields": {
+      "city": "Arlington",
+      "state": "Texas",
+      "state_abbrev": "TX",
+      "latitude": 32.7007,
+      "longitude": -97.1247
+    }
+  },
+  {
+    "model": "core.Location",
+    "pk": 49,
+    "fields": {
+      "city": "Tampa",
+      "state": "Florida",
+      "state_abbrev": "FL",
+      "latitude": 27.9701,
+      "longitude": -82.4797
+    }
+  },
+  {
+    "model": "core.Location",
+    "pk": 50,
+    "fields": {
+      "city": "New Orleans",
+      "state": "Louisiana",
+      "state_abbrev": "LA",
+      "latitude": 30.0534,
+      "longitude": -89.9345
+    }
+  },
+  {
+    "model": "core.Location",
+    "pk": 51,
+    "fields": {
+      "city": "Wichita",
+      "state": "Kansas",
+      "state_abbrev": "KS",
+      "latitude": 37.6907,
+      "longitude": -97.3459
+    }
+  },
+  {
+    "model": "core.Location",
+    "pk": 52,
+    "fields": {
+      "city": "Cleveland",
+      "state": "Ohio",
+      "state_abbrev": "OH",
+      "latitude": 41.4785,
+      "longitude": -81.6794
+    }
+  },
+  {
+    "model": "core.Location",
+    "pk": 53,
+    "fields": {
+      "city": "Bakersfield",
+      "state": "California",
+      "state_abbrev": "CA",
+      "latitude": 35.3212,
+      "longitude": -119.0183
+    }
+  },
+  {
+    "model": "core.Location",
+    "pk": 54,
+    "fields": {
+      "city": "Aurora",
+      "state": "Colorado",
+      "state_abbrev": "CO",
+      "latitude": 39.688,
+      "longitude": -104.6897
+    }
+  },
+  {
+    "model": "core.Location",
+    "pk": 55,
+    "fields": {
+      "city": "Anaheim",
+      "state": "California",
+      "state_abbrev": "CA",
+      "latitude": 33.8555,
+      "longitude": -117.7601
+    }
+  },
+  {
+    "model": "core.Location",
+    "pk": 56,
+    "fields": {
+      "city": "Honolulu",
+      "state": "Hawaii",
+      "state_abbrev": "HI",
+      "latitude": 21.3243,
+      "longitude": -157.8476
+    }
+  },
+  {
+    "model": "core.Location",
+    "pk": 57,
+    "fields": {
+      "city": "Santa Ana",
+      "state": "California",
+      "state_abbrev": "CA",
+      "latitude": 33.7363,
+      "longitude": -117.883
+    }
+  },
+  {
+    "model": "core.Location",
+    "pk": 58,
+    "fields": {
+      "city": "Riverside",
+      "state": "California",
+      "state_abbrev": "CA",
+      "latitude": 33.9381,
+      "longitude": -117.3932
+    }
+  },
+  {
+    "model": "core.Location",
+    "pk": 59,
+    "fields": {
+      "city": "Corpus Christi",
+      "state": "Texas",
+      "state_abbrev": "TX",
+      "latitude": 27.7543,
+      "longitude": -97.1734
+    }
+  },
+  {
+    "model": "core.Location",
+    "pk": 60,
+    "fields": {
+      "city": "Lexington",
+      "state": "Kentucky",
+      "state_abbrev": "KY",
+      "latitude": 38.0407,
+      "longitude": -84.4583
+    }
+  },
+  {
+    "model": "core.Location",
+    "pk": 61,
+    "fields": {
+      "city": "Stockton",
+      "state": "California",
+      "state_abbrev": "CA",
+      "latitude": 37.9763,
+      "longitude": -121.3133
+    }
+  },
+  {
+    "model": "core.Location",
+    "pk": 62,
+    "fields": {
+      "city": "Henderson",
+      "state": "Nevada",
+      "state_abbrev": "NV",
+      "latitude": 36.0097,
+      "longitude": -115.0357
+    }
+  },
+  {
+    "model": "core.Location",
+    "pk": 63,
+    "fields": {
+      "city": "Saint Paul",
+      "state": "Minnesota",
+      "state_abbrev": "MN",
+      "latitude": 44.9489,
+      "longitude": -93.1041
+    }
+  },
+  {
+    "model": "core.Location",
+    "pk": 64,
+    "fields": {
+      "city": "St. Louis",
+      "state": "Missouri",
+      "state_abbrev": "MO",
+      "latitude": 38.6357,
+      "longitude": -90.2446
+    }
+  },
+  {
+    "model": "core.Location",
+    "pk": 65,
+    "fields": {
+      "city": "Cincinnati",
+      "state": "Ohio",
+      "state_abbrev": "OH",
+      "latitude": 39.1402,
+      "longitude": -84.5058
+    }
+  },
+  {
+    "model": "core.Location",
+    "pk": 66,
+    "fields": {
+      "city": "Pittsburgh",
+      "state": "Pennsylvania",
+      "state_abbrev": "PA",
+      "latitude": 40.4398,
+      "longitude": -79.9766
+    }
+  },
+  {
+    "model": "core.Location",
+    "pk": 67,
+    "fields": {
+      "city": "Greensboro",
+      "state": "North Carolina",
+      "state_abbrev": "NC",
+      "latitude": 36.0951,
+      "longitude": -79.827
+    }
+  },
+  {
+    "model": "core.Location",
+    "pk": 68,
+    "fields": {
+      "city": "Anchorage",
+      "state": "Alaska",
+      "state_abbrev": "AK",
+      "latitude": 61.1743,
+      "longitude": -149.2843
+    }
+  },
+  {
+    "model": "core.Location",
+    "pk": 69,
+    "fields": {
+      "city": "Plano",
+      "state": "Texas",
+      "state_abbrev": "TX",
+      "latitude": 33.0508,
+      "longitude": -96.7479
+    }
+  },
+  {
+    "model": "core.Location",
+    "pk": 70,
+    "fields": {
+      "city": "Lincoln",
+      "state": "Nebraska",
+      "state_abbrev": "NE",
+      "latitude": 40.8105,
+      "longitude": -96.6803
+    }
+  },
+  {
+    "model": "core.Location",
+    "pk": 71,
+    "fields": {
+      "city": "Orlando",
+      "state": "Florida",
+      "state_abbrev": "FL",
+      "latitude": 28.4166,
+      "longitude": -81.2736
+    }
+  },
+  {
+    "model": "core.Location",
+    "pk": 72,
+    "fields": {
+      "city": "Irvine",
+      "state": "California",
+      "state_abbrev": "CA",
+      "latitude": 33.6784,
+      "longitude": -117.7713
+    }
+  },
+  {
+    "model": "core.Location",
+    "pk": 73,
+    "fields": {
+      "city": "Newark",
+      "state": "New Jersey",
+      "state_abbrev": "NJ",
+      "latitude": 40.7242,
+      "longitude": -74.1726
+    }
+  },
+  {
+    "model": "core.Location",
+    "pk": 74,
+    "fields": {
+      "city": "Toledo",
+      "state": "Ohio",
+      "state_abbrev": "OH",
+      "latitude": 41.6641,
+      "longitude": -83.5819
+    }
+  },
+  {
+    "model": "core.Location",
+    "pk": 75,
+    "fields": {
+      "city": "Durham",
+      "state": "North Carolina",
+      "state_abbrev": "NC",
+      "latitude": 35.9811,
+      "longitude": -78.9029
+    }
+  },
+  {
+    "model": "core.Location",
+    "pk": 76,
+    "fields": {
+      "city": "Chula Vista",
+      "state": "California",
+      "state_abbrev": "CA",
+      "latitude": 32.6277,
+      "longitude": -117.0152
+    }
+  },
+  {
+    "model": "core.Location",
+    "pk": 77,
+    "fields": {
+      "city": "Fort Wayne",
+      "state": "Indiana",
+      "state_abbrev": "IN",
+      "latitude": 41.0882,
+      "longitude": -85.1439
+    }
+  },
+  {
+    "model": "core.Location",
+    "pk": 78,
+    "fields": {
+      "city": "Jersey City",
+      "state": "New Jersey",
+      "state_abbrev": "NJ",
+      "latitude": 40.7114,
+      "longitude": -74.0648
+    }
+  },
+  {
+    "model": "core.Location",
+    "pk": 79,
+    "fields": {
+      "city": "St. Petersburg",
+      "state": "Florida",
+      "state_abbrev": "FL",
+      "latitude": 27.761999999999997,
+      "longitude": -82.6441
+    }
+  },
+  {
+    "model": "core.Location",
+    "pk": 80,
+    "fields": {
+      "city": "Laredo",
+      "state": "Texas",
+      "state_abbrev": "TX",
+      "latitude": 27.5604,
+      "longitude": -99.4892
+    }
+  },
+  {
+    "model": "core.Location",
+    "pk": 81,
+    "fields": {
+      "city": "Madison",
+      "state": "Wisconsin",
+      "state_abbrev": "WI",
+      "latitude": 43.0878,
+      "longitude": -89.4299
+    }
+  },
+  {
+    "model": "core.Location",
+    "pk": 82,
+    "fields": {
+      "city": "Chandler",
+      "state": "Arizona",
+      "state_abbrev": "AZ",
+      "latitude": 33.2829,
+      "longitude": -111.8549
+    }
+  },
+  {
+    "model": "core.Location",
+    "pk": 83,
+    "fields": {
+      "city": "Buffalo",
+      "state": "New York",
+      "state_abbrev": "NY",
+      "latitude": 42.8925,
+      "longitude": -78.8597
+    }
+  },
+  {
+    "model": "core.Location",
+    "pk": 84,
+    "fields": {
+      "city": "Lubbock",
+      "state": "Texas",
+      "state_abbrev": "TX",
+      "latitude": 33.5656,
+      "longitude": -101.8867
+    }
+  },
+  {
+    "model": "core.Location",
+    "pk": 85,
+    "fields": {
+      "city": "Scottsdale",
+      "state": "Arizona",
+      "state_abbrev": "AZ",
+      "latitude": 33.6843,
+      "longitude": -111.8611
+    }
+  },
+  {
+    "model": "core.Location",
+    "pk": 86,
+    "fields": {
+      "city": "Reno",
+      "state": "Nevada",
+      "state_abbrev": "NV",
+      "latitude": 39.5491,
+      "longitude": -119.8499
+    }
+  },
+  {
+    "model": "core.Location",
+    "pk": 87,
+    "fields": {
+      "city": "Glendale",
+      "state": "Arizona",
+      "state_abbrev": "AZ",
+      "latitude": 33.5331,
+      "longitude": -112.1899
+    }
+  },
+  {
+    "model": "core.Location",
+    "pk": 88,
+    "fields": {
+      "city": "Gilbert",
+      "state": "Arizona",
+      "state_abbrev": "AZ",
+      "latitude": 33.3103,
+      "longitude": -111.7431
+    }
+  },
+  {
+    "model": "core.Location",
+    "pk": 89,
+    "fields": {
+      "city": "Winston\u2013Salem",
+      "state": "North Carolina",
+      "state_abbrev": "NC",
+      "latitude": 36.1027,
+      "longitude": -80.26100000000001
+    }
+  },
+  {
+    "model": "core.Location",
+    "pk": 90,
+    "fields": {
+      "city": "North Las Vegas",
+      "state": "Nevada",
+      "state_abbrev": "NV",
+      "latitude": 36.2857,
+      "longitude": -115.0939
+    }
+  },
+  {
+    "model": "core.Location",
+    "pk": 91,
+    "fields": {
+      "city": "Norfolk",
+      "state": "Virginia",
+      "state_abbrev": "VA",
+      "latitude": 36.923,
+      "longitude": -76.2446
+    }
+  },
+  {
+    "model": "core.Location",
+    "pk": 92,
+    "fields": {
+      "city": "Chesapeake",
+      "state": "Virginia",
+      "state_abbrev": "VA",
+      "latitude": 36.6794,
+      "longitude": -76.3018
+    }
+  },
+  {
+    "model": "core.Location",
+    "pk": 93,
+    "fields": {
+      "city": "Garland",
+      "state": "Texas",
+      "state_abbrev": "TX",
+      "latitude": 32.9098,
+      "longitude": -96.6303
+    }
+  },
+  {
+    "model": "core.Location",
+    "pk": 94,
+    "fields": {
+      "city": "Irving",
+      "state": "Texas",
+      "state_abbrev": "TX",
+      "latitude": 32.8577,
+      "longitude": -96.97
+    }
+  },
+  {
+    "model": "core.Location",
+    "pk": 95,
+    "fields": {
+      "city": "Hialeah",
+      "state": "Florida",
+      "state_abbrev": "FL",
+      "latitude": 25.8699,
+      "longitude": -80.3029
+    }
+  },
+  {
+    "model": "core.Location",
+    "pk": 96,
+    "fields": {
+      "city": "Fremont",
+      "state": "California",
+      "state_abbrev": "CA",
+      "latitude": 37.4945,
+      "longitude": -121.9412
+    }
+  },
+  {
+    "model": "core.Location",
+    "pk": 97,
+    "fields": {
+      "city": "Boise",
+      "state": "Idaho",
+      "state_abbrev": "ID",
+      "latitude": 43.6002,
+      "longitude": -116.2317
+    }
+  },
+  {
+    "model": "core.Location",
+    "pk": 98,
+    "fields": {
+      "city": "Richmond",
+      "state": "Virginia",
+      "state_abbrev": "VA",
+      "latitude": 37.5314,
+      "longitude": -77.476
+    }
+  },
+  {
+    "model": "core.Location",
+    "pk": 99,
+    "fields": {
+      "city": "Baton Rouge",
+      "state": "Louisiana",
+      "state_abbrev": "LA",
+      "latitude": 30.4422,
+      "longitude": -91.1309
+    }
+  },
+  {
+    "model": "core.Location",
+    "pk": 100,
+    "fields": {
+      "city": "Spokane",
+      "state": "Washington",
+      "state_abbrev": "WA",
+      "latitude": 47.6669,
+      "longitude": -117.4333
+    }
+  }
+]

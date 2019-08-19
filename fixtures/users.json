@@ -1,0 +1,42 @@
+[
+  {
+    "model": "subscribers.Subscriber",
+    "pk": 10,
+    "fields": {
+      "email": "weatherapp+anc@klaviyo.com",
+      "location": 68
+    }
+  },
+  {
+    "model": "subscribers.Subscriber",
+    "pk": 11,
+    "fields": {
+      "email": "weatherapp+aus@klaviyo.com",
+      "location": 11
+    }
+  },
+  {
+    "model": "subscribers.Subscriber",
+    "pk": 12,
+    "fields": {
+      "email": "weatherapp+bos@klaviyo.com",
+      "location": 21
+    }
+  },
+  {
+    "model": "subscribers.Subscriber",
+    "pk": 13,
+    "fields": {
+      "email": "weatherapp+sea@klaviyo.com",
+      "location": 18
+    }
+  },
+  {
+    "model": "subscribers.Subscriber",
+    "pk": 14,
+    "fields": {
+      "email": "weatherapp+wdc@klaviyo.com",
+      "location": 20
+    }
+  }
+]
