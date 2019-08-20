@@ -39,6 +39,7 @@ INSTALLED_APPS = [
     'core',
     'dal',
     'dal_select2',
+    'widget_tweaks',
 ]
 
 # ELASTICSEARCH_DSL = {
@@ -129,6 +130,10 @@ USE_TZ = True
 
 STATIC_URL = '/static/'
 STATIC_ROOT = os.path.join(BASE_DIR, 'static')
+STATIC_DIR = os.path.join(BASE_DIR, 'staticfiles')
+STATICFILES_DIRS = [
+    STATIC_DIR,
+]
 
 # Email configuration
 DEFAULT_FROM_EMAIL = 'catoa0608@gmail.com'

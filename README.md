@@ -9,3 +9,8 @@ pip install -r requirements.txt
 ```bash
 python manage.py loaddata fixtures/*.json
 ```
+
+### Emailing users the weather forecast
+```bash
+python manage.py send_user_forecasts
+```

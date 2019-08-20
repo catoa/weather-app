@@ -17,13 +17,15 @@ def construct_email(forecast_dict):
     and weather forecast
     """
     daily_forecast = forecast_dict['daily']
-    summary = daily_forecast['daily']['summary']
+    summary = daily_forecast['summary']
     curr_forecast, tmrw_forecast = daily_forecast['data'][0], daily_forecast['data'][1]
     subject = determine_email_subject(curr_forecast, tmrw_forecast)
 
     return {
         'subject': subject,
-        'daily_summary': summary
+        'daily_summary': summary,
+        'temp_high': curr_forecast['temperatureHigh'],
+        'temp_low': curr_forecast['temperatureLow'],
     }
 
 
