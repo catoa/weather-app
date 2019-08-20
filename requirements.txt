@@ -2,6 +2,7 @@ certifi==2019.6.16
 chardet==3.0.4
 Django==2.2.4
 django-autocomplete-light==3.4.1
+django-widget-tweaks==1.4.5
 idna==2.8
 python-dateutil==2.8.0
 pytz==2019.2
