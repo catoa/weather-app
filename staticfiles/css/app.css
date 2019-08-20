@@ -1,6 +1,4 @@
-.subscribe-form {
-    display: flex;
-    max-width: 100%;
-    align-items: center;
+#subscribe-form {
+    padding-top: 100px;
 }
 
