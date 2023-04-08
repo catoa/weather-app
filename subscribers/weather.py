@@ -2,6 +2,7 @@ import requests
 
 # settings.configure()
 # api_key = settings.DARK_SKY_WEATHER_API_KEY
+# This API is now fully deprecated as it has been absorbed into Apple's ecosystem.
 api_url = f"https://api.darksky.net/forecast/96aea29e68c8f53be954b2b4c9707d4d/"
 
 
